@@ -1,3 +1,7 @@
+# Registration Number 2020-04-09954
+# Name Nyamhanga, Deogratias Albert
+
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
