@@ -1,5 +1,6 @@
 # Registration Number 2020-04-09954
 # Name Nyamhanga, Deogratias Albert
+# Computer Engineering And IT
 
 
 # CS 234 Lab 1: Hello World"
